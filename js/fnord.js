@@ -23,7 +23,7 @@ $('html').click(function(e) {
         ? fnord()
         : count.toString();
     if (count > 100) {
-        window.location.replace("../fnordfnord.html");
+        window.location.replace("fnordfnord.html");
     }
     
     $(".eros")
